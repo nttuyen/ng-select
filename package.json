@@ -1,4 +1,6 @@
 {
+  "name": "@ng-select/ng-select",
+  "version": "1.0.5",
   "engines": {
     "node": ">= 6.9.0",
     "npm": ">= 3.0.0"
