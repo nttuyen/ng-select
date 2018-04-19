@@ -1,7 +1,7 @@
 {
   "$schema": "../node_modules/ng-packagr/package.schema.json",
-  "name": "@ng-select/ng-select",
-  "version": "1.0.8",
+  "name": "@ng-select/ngx-select",
+  "version": "1.0.9",
   "description": "Angular ng-select - All in One UI Select, Multiselect and Autocomplete",
   "author": "@ng-select/ng-select",
   "license": "MIT",
